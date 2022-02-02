@@ -42,4 +42,5 @@ public class FooTests {
         System.setOut(standardOut);
         System.setErr(standardErr);
     }
+
 }

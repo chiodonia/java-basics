@@ -30,4 +30,5 @@ public class StatisticalServiceTests {
     public void testAverageDiNiente() {
         Assertions.assertThrows(IllegalArgumentException.class, () -> statisticalService.average(null));
     }
+
 }

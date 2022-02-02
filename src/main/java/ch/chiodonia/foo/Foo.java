@@ -4,6 +4,7 @@ package ch.chiodonia.foo;
  * Programma principale.
  */
 public class Foo {
+
     public static void main(String[] args) {
         StatisticalService statisticalService = new StatisticalService();
         try {
@@ -20,4 +21,5 @@ public class Foo {
         }
         return numbers;
     }
+
 }
