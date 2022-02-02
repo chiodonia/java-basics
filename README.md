@@ -1,6 +1,6 @@
 # Foo
 
-Un piccolo progetto (foo) per mostrare a Giele come impostare un progetto Java.
+Un piccolo progetto (foo) per mostrare a Gioele come impostare un progetto Java.
 
 ## Build
 https://maven.apache.org/
