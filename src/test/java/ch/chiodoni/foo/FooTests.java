@@ -27,7 +27,7 @@ public class FooTests {
     public void testFoo() {
         String[] args = {"5.0", "6.0"};
         Foo.main(args);
-        assertEquals("Mediaxx: 5.50", outputStream.toString().trim());
+        assertEquals("Media: 5.50", outputStream.toString().trim());
     }
 
     @Test
